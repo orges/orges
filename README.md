@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![](https://github-readme-stats.vercel.app/api?username=orgesified)](https://github.com/orges)
+[![](https://github-readme-stats.vercel.app/api?username=orges)](https://github.com/orges)
 <!--
 **orges/orges** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

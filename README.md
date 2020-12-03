@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-[![](https://github-readme-stats.vercel.app/api?username=orgesified)](https://github.com/orgesified)
+[![](https://github-readme-stats.vercel.app/api?username=orgesified)](https://github.com/orges)
 <!--
-**orgesified/orgesified** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**orges/orges** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 

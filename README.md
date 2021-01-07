@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://hit.yhype.me/github/profile?user_id=23742757)
+![](https://komarev.com/ghpvc/?username=orges&color=ff69b4)
 
 [![](https://github-readme-stats.vercel.app/api?username=orges)](https://github.com/orges)
 <!--

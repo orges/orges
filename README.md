@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=orges&color=ff69b4)
 
-[![](https://github-stats-ten.vercel.app/api?username=orges)](https://github.com/orges)
+[![](https://github-stats-ten.vercel.app/api?username=orges&show_icons=true)](https://github.com/orges)
 <!--
 **orges/orges** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://komarev.com/ghpvc/?username=orges&color=ff69b4)
+![](https://komarev.com/ghpvc/?username=orges&color=ff69b4&style=for-the-badge)
 
 [![](https://github-readme-stats.vercel.app/api?username=orges&show_icons=true&include_all_commits=true&icon_color=ff69b4&text_color=ff69b4&title_color=ff69b4&bg_color=000000)](https://github.com/orges)
 <!--
